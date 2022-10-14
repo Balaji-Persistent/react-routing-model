@@ -1,7 +1,7 @@
 {
-  "name": "react-routing",
+  "name": "react-routing-model",
   "version": "0.1.0",
-  "homepage": "https://Balaji-Persistent.github.io"
+  "homepage": "http://Balaji-Persistent.github.io/react-routing-model"
   "private": true,
   "dependencies": {
     "gh-pages": "^3.2.3"
